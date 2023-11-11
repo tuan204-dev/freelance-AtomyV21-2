@@ -1,0 +1,23 @@
+.top-form {
+  .radio-group {
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+
+    .Mui-checked {
+      color: #e6546f !important;
+    }
+
+    .MuiTypography-root.MuiFormControlLabel-label {
+      font-family: 'Times New Roman', Times, serif !important;
+    }
+  }
+}
+
+.Mui-checked {
+  color: #e6546f !important;
+}
+
+.MuiTypography-root.MuiFormControlLabel-label {
+  font-family: 'Times New Roman', Times, serif !important;
+}
