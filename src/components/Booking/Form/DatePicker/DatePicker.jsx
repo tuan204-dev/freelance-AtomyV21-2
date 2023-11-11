@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { DatePicker as Date } from '@mui/x-date-pickers/DatePicker'
-import './DatePicker.scss'
+import './DatePicker.css'
 
 
 const DatePicker = ({ label }) => {

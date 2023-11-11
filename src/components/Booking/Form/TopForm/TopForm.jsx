@@ -4,7 +4,7 @@ import TextInput from '../TextInput'
 import RadioGroup from '@mui/material/RadioGroup'
 import FormControlLabel from '@mui/material/FormControlLabel'
 import Radio from '@mui/material/Radio'
-import './TopForm.scss'
+import './TopForm.css'
 import SubLabel from '../SubLabel'
 
 const TopForm = () => {

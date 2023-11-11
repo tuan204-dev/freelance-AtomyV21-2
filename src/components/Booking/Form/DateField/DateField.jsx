@@ -1,5 +1,5 @@
 import { DateField as Date } from '@mui/x-date-pickers/DateField'
-import './DateField.scss'
+import './DateField.css'
 
 const DateField = () => {
   return (
