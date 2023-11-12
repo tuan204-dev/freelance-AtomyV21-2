@@ -31,9 +31,11 @@ const Header = () => {
           <button className="text-xl px-3 py-2 border-[1px] border-[#efa697] text-[#efa697] font-bold rounded-[5px]">
             <BiSolidCartAlt />
           </button>
-          <button className="px-3 py-2 border-[1px] border-[#efa697] text-[#efa697] text-sm font-bold rounded-[5px]">
-            Đăng ký
-          </button>
+          <Link to="/register">
+            <button className="px-3 py-2 border-[1px] border-[#efa697] text-[#efa697] text-sm font-bold rounded-[5px]">
+              Đăng ký
+            </button>
+          </Link>
         </div>
       </header>
     </div>
